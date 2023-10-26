@@ -3019,5 +3019,10 @@ input, select, textarea {
 
 .hanging {
 	text-indent: -36px; 
-	padding-left: 36px;
+	padding-left: 36px; 
+	
+	}
+
+cite {
+	font-style: italic
 }
